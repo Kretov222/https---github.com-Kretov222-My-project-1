@@ -37,3 +37,8 @@ console.log(hasChar);
   //return result;
 //}
 //console.log(makeItFunny(text,3));
+
+
+
+
+// проверка 123
